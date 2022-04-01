@@ -10,6 +10,6 @@ public class Prestigio extends Bolo{
 	
 	@Override
 	public void receita() {
-		System.out.println("d " + getNome() + " " + getTipo());
+		System.out.println("receita de bolo de prestigio\n");
 	}
 }

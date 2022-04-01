@@ -10,7 +10,7 @@ public class FlorestaNegra extends Bolo{
 
 	@Override
 	public void receita() {
-		System.out.println("c" + getNome() + getTipo());
+		System.out.println("receita de bolo de floresta negra\n");
 	}
 
 }

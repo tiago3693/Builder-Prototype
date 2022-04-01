@@ -10,7 +10,7 @@ public class Abacaxi extends Bolo {
 
 	@Override
 	public void receita() {
-		System.out.println("a" + getNome() + getTipo());
+		System.out.println("receita do bolo de abacaxi\n");
 	}
 	
 }

@@ -10,6 +10,6 @@ public class Choconinho extends Bolo{
 	
 	@Override
 	public void receita() {
-		System.out.println("b " + getNome() + " " + getTipo());
+		System.out.println("receita de bolo de choconinho\n");
 	}
 }
