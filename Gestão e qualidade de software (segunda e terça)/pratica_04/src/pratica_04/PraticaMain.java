@@ -13,13 +13,13 @@ public class PraticaMain {
 		System.out.println();
 		switch (num1) {
 		case 1:
-			Pratica_1.pratica();
+			Pratica_04_1.pratica();
 			break;
 		case 2:
-			Pratica_2.pratica();
+			Pratica_04_2.pratica();
 			break;
 		case 3:
-			Pratica_3.pratica();
+			Pratica_04_3.pratica();
 			break;
 		}
 

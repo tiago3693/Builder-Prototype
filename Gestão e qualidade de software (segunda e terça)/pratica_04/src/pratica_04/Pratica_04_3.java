@@ -2,7 +2,7 @@ package pratica_04;
 
 import java.util.Scanner;
 
-public class Pratica_3 {
+public class Pratica_04_3 {
 
 	public static void pratica() {
 		Scanner scan = new Scanner(System.in);
