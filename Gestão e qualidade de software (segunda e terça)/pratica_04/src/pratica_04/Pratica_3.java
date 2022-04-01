@@ -6,15 +6,20 @@ public class Pratica_3 {
 
 	public static void pratica() {
 		Scanner scan = new Scanner(System.in);
-		int num1 = 0, num2 = 0, num3 = 0;
-		do {
+		int num1 = -1, num2 = -1, num3 = -1;
+
+		while (num1 < 0 || num1 > 10) {
 			System.out.println("nota 1 de 0 a 10: ");
 			num1 = scan.nextInt();
+		}
+		while (num2 < 0 || num2 > 10) {
 			System.out.println("nota 2 de 0 a 10: ");
 			num2 = scan.nextInt();
+		}
+		while (num3 < 0 || num3 > 10) {
 			System.out.println("nota 3 de 0 a 10: ");
 			num3 = scan.nextInt();
-		} while (num1 < 0 || num1 > 10 || num2 < 0 || num2 > 10 || num3 < 0 || num3 > 10);
+		}
 
 		mediaCalc(num1, num2, num3);
 
