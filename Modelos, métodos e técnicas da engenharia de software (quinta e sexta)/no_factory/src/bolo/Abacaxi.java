@@ -2,10 +2,10 @@ package bolo;
 
 public class Abacaxi extends Bolo {
 	
-	public Abacaxi() {
-		setNome("bolo abacaxi");
-		setPreco(1f);
-		setTipo("abacaxi tipo");
+	public Abacaxi(String nome, String tipo, Float preco) {
+		setNome(nome);
+		setPreco(preco);
+		setTipo(tipo);
 	}
 
 	@Override

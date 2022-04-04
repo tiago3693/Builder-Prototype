@@ -14,12 +14,24 @@ public abstract class Bolo {
 
 	}
 
+	public String getNome() {
+		return nome;
+	}
+
 	public void setNome(String nome) {
 		this.nome = nome;
 	}
 
+	public String getTipo() {
+		return tipo;
+	}
+
 	public void setTipo(String tipo) {
 		this.tipo = tipo;
+	}
+
+	public Float getPreco() {
+		return preco;
 	}
 
 	public void setPreco(Float preco) {

@@ -2,10 +2,10 @@ package bolo;
 
 public class FlorestaNegra extends Bolo{
 	
-	public FlorestaNegra() {
-		setNome("bolo floresta negra");
-		setPreco(3f);
-		setTipo("floresta negra tipo");
+	public FlorestaNegra(String nome, String tipo, Float preco) {
+		setNome(nome);
+		setPreco(preco);
+		setTipo(tipo);
 	}
 
 	@Override
