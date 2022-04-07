@@ -1,0 +1,15 @@
+package pratica_04;
+
+import java.util.Scanner;
+
+public class Pratica_04_1 {
+
+	public static void pratica() {
+		System.out.println("notas: ");
+		int nota1 = scanner.nextInt();
+		int nota2 = scanner.nextInt();
+		int nota3 = scanner.nextInt();
+		
+		System.out.format("Media: %.2f \n\n", media(nota1,nota2,nota3));
+	}
+}

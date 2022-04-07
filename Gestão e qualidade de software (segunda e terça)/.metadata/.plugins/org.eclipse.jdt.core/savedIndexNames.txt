@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\tiago\eclipse-workspace\faculdade\Gestão e qualidade de software (segunda e terça)\.metadata\.plugins\org.eclipse.jdt.core
+1088174552.index
+1865797976.index
+760091825.index
+3736644731.index
