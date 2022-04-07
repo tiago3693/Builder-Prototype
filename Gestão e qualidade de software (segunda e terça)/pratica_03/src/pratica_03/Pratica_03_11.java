@@ -1,8 +1,8 @@
-package pratica_04;
+package pratica_03;
 
 import java.util.Scanner;
 
-public class Pratica_04_11 {
+public class Pratica_03_11 {
 
 	public static void pratica() {
 		Scanner scanner = new Scanner(System.in);

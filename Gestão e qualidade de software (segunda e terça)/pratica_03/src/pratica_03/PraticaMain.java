@@ -1,4 +1,4 @@
-package pratica_04;
+package pratica_03;
 
 import java.util.Scanner;
 
@@ -13,40 +13,40 @@ public class PraticaMain {
 		System.out.println();
 		switch (num1) {
 		case 1:
-			Pratica_04_1.pratica();
+			Pratica_03_1.pratica();
 			break;
 		case 2:
-			Pratica_04_2.pratica();
+			Pratica_03_2.pratica();
 			break;
 		case 3:
-			Pratica_04_3.pratica();
+			Pratica_03_3.pratica();
 			break;
 		case 4:
-			Pratica_04_4.pratica();
+			Pratica_03_4.pratica();
 			break;
 		case 5:
-			Pratica_04_5.pratica();
+			Pratica_03_5.pratica();
 			break;
 		case 6:
-			Pratica_04_6.pratica();
+			Pratica_03_6.pratica();
 			break;
 		case 7:
-			Pratica_04_7.pratica();
+			Pratica_03_7.pratica();
 			break;
 		case 8:
-			Pratica_04_8.pratica();
+			Pratica_03_8.pratica();
 			break;
 		case 9:
-			Pratica_04_9.pratica();
+			Pratica_03_9.pratica();
 			break;
 		case 10:
-			Pratica_04_10.pratica();
+			Pratica_03_10.pratica();
 			break;
 		case 11:
-			Pratica_04_11.pratica();
+			Pratica_03_11.pratica();
 			break;
 		case 12:
-			Pratica_04_12.pratica();
+			Pratica_03_12.pratica();
 			break;
 		}
 
